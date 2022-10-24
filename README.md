@@ -1,4 +1,4 @@
-Created by me for my University of Birmingham dissertation.
+Created for my University of Birmingham dissertation.
 
 **Requirements:**
 - Python 3.9.1, with the following libraries:
