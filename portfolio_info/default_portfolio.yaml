@@ -1,0 +1,13 @@
+---
+BTCUSDT:
+  amount: 2500
+  currency: USDT
+DOGEUSDT:
+  amount: 2500
+  currency: USDT
+ETHUSDT:
+  amount: 2500
+  currency: USDT
+ADAUSDT:
+  amount: 2500
+  currency: USDT

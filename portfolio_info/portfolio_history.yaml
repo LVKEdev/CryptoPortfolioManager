@@ -1,0 +1,738 @@
+0:
+  ADAUSDT:
+    amount: 2500
+    currency: USDT
+    value: 2500
+  BTCUSDT:
+    amount: 2500
+    currency: USDT
+    value: 2500
+  DOGEUSDT:
+    amount: 2500
+    currency: USDT
+    value: 2500
+  ETHUSDT:
+    amount: 2500
+    currency: USDT
+    value: 2500
+  total_value: 10000
+1:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2484
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2474
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2489
+  ETHUSDT:
+    amount: 2500
+    currency: USDT
+    value: 2500
+  total_value: 9947
+2:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2292
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2329
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2350
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2463
+  total_value: 9434
+3:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2155
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2309
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2280
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2338
+  total_value: 9082
+4:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2410
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2420
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2347
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2453
+  total_value: 9630
+5:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2394
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2452
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2357
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2478
+  total_value: 9681
+6:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2176
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2288
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2187
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2269
+  total_value: 8920
+7:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2255
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2368
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2653
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2315
+  total_value: 9591
+8:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2333
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2394
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2513
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2411
+  total_value: 9651
+9:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2225
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2348
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2432
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2392
+  total_value: 9397
+10:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2213
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2295
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2394
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2385
+  total_value: 9287
+11:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2207
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2292
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2364
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2355
+  total_value: 9218
+12:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2204
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2301
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2325
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2378
+  total_value: 9208
+13:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2273
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2384
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2360
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2397
+  total_value: 9414
+14:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2344
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2373
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2392
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2368
+  total_value: 9477
+15:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2620
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2490
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2565
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2467
+  total_value: 10142
+16:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2480
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2491
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2590
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2428
+  total_value: 9989
+17:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2585
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2469
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2652
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2458
+  total_value: 10164
+18:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2585
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2469
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2652
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2458
+  total_value: 10164
+19:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2585
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2469
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2652
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2458
+  total_value: 10164
+20:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2585
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2469
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2652
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2458
+  total_value: 10164
+21:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2371
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2276
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2334
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2177
+  total_value: 9158
+22:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2276
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2276
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2335
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2276
+  total_value: 9161
+23:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2308
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2308
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2376
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2308
+  total_value: 9328
+24:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2264
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2264
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2367
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2264
+  total_value: 9164
+25:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2338
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2338
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2406
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2338
+  total_value: 9457
+26:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2317
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2317
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2425
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2317
+  total_value: 9490
+27:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2275
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2275
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2367
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2275
+  total_value: 9248
+28:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2245
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2245
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2342
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2245
+  total_value: 9189
+29:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2129
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2129
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2211
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2129
+  total_value: 8652
+30:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2111
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2111
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2224
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2111
+  total_value: 8655
+31:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2036
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2036
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2155
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2036
+  total_value: 8262
+32:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2042
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2042
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2097
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2042
+  total_value: 8090
+33:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2051
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2051
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2091
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2051
+  total_value: 8115
+34:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2049
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2049
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 1987
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2049
+  total_value: 7883
+35:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2093
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2093
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2137
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2093
+  total_value: 8287
+36:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2151
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2151
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2261
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2151
+  total_value: 8769
+37:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2085
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2085
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2385
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2085
+  total_value: 8606
+38:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2109
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2109
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2546
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2109
+  total_value: 8940
+39:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2111
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2111
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2564
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2111
+  total_value: 8969
+40:
+  ADAUSDT:
+    amount: 17.8
+    currency: ADA
+    value: 2110
+  BTCUSDT:
+    amount: 0.00049
+    currency: BTC
+    value: 2110
+  DOGEUSDT:
+    amount: 139.0
+    currency: DOGE
+    value: 2454
+  ETHUSDT:
+    amount: 0.006
+    currency: ETH
+    value: 2110
+  total_value: 9083

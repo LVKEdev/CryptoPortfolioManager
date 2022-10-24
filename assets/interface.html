@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Cryptocurrency Portfolio Manager</title>
+        <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    </head>
+    <body>
+        <div id="sidebar">
+            <button class="icon all">ALL</button>
+            <button class="icon bitcoin">BTC</button>
+            <button class="icon ethereum">ETH</button>
+            <button class="icon cardano">ADA</button>
+            <button class="icon dogecoin">DOGE</button>
+        </div>
+        <div id="content">
+            <div id="t">
+                <div id="tl">
+                    <div>
+                        <div>Portfolio value: <span id="portfolio_value"></span></div>
+                        <canvas id="chart"></canvas>
+                    </div>
+                </div>
+                <div id="tr">
+                    <div>Market Breakdown</div>
+                    <table>
+                        <tr>
+                            <th>Currency</th>
+                            <th>Current Price (USDT)</th>
+                            <th>Price Change</th>
+                            <th>HODL-ing?</th>
+                        </tr>
+                        <tr>
+                            <td>Bitcoin</td>
+                            <td class='bitcoin price'></td>
+                            <td class='bitcoin pc'></td>
+                            <td class='bitcoin hodl'></td>
+                        </tr>
+                        <tr>
+                            <td>Ethereum</td>
+                            <td class='ethereum price'></td>
+                            <td class='ethereum pc'></td>
+                            <td class='ethereum hodl'></td>
+                        </tr>
+                        <tr>
+                            <td>Cardano</td>
+                            <td class='cardano price'></td>
+                            <td class='cardano pc'></td>
+                            <td class='cardano hodl'></td>
+                        </tr>
+                        <tr>
+                            <td>Dogecoin</td>
+                            <td class='dogecoin price'></td>
+                            <td class='dogecoin pc'></td>
+                            <td class='dogecoin hodl'></td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+            <div id="b">
+                <div>Live Twitter Feed</div>
+                <div id='tweets'></div>
+                <div><button id="pause">Pause</button></div>
+                <div>Positive score: <span id="pos">0.1</span> Negative score: <span id="neg">0.3</span> Neutral Score: <span id="neu">0.3</span></div>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+        <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+        <script type="text/javascript" src="interface_script.js"></script>
+    </body>
+</html>

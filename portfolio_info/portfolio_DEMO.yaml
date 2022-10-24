@@ -1,0 +1,12 @@
+ADAUSDT:
+  amount: 17.8
+  currency: ADA
+BTCUSDT:
+  amount: 0.00049
+  currency: BTC
+DOGEUSDT:
+  amount: 139.0
+  currency: DOGE
+ETHUSDT:
+  amount: 0.006
+  currency: ETH
