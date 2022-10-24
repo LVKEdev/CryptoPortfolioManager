@@ -1,4 +1,4 @@
-Created by lam045, contact lukemagnet96@gmail.com if there are any problems running this software that the README.md cannot solve
+Created by me for my University of Birmingham dissertation.
 
 **Requirements:**
 - Python 3.9.1, with the following libraries:
@@ -13,13 +13,7 @@ Created by lam045, contact lukemagnet96@gmail.com if there are any problems runn
 - Jupyter Notebooks 6.4.6
 - UNIX shell command compatability: Windows users may need to install PowerShell for these commands to work.
 
-
-**WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING**
-
-_trading_bot.py_ : trading_bot.py is included for viewing purposes only. Do **not** run it! A demo is available in _tweet_collector_demo.ipynb_
-
-**WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING WARNING**
-
+API keys can be inserted into api_keys.yaml file.
 
 **Runnable files**:
 
